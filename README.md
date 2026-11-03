@@ -6,8 +6,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/dagim-getnet-38a322332"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:dagimgetnet2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/dagimgetnet2-art<img width="1280" height="8" alt="divider" src="https://github.com/user-attachments/assets/71d00460-c2a9-47a9-a329-a32536febd45" />
-"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/dagimgetnet2-art<img width="1280" height="8" alt="divider"/><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ```text
