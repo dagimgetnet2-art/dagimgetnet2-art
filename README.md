@@ -1,12 +1,13 @@
 <img width="1279" height="476" alt="image" src="https://github.com/user-attachments/assets/1a94f52a-5865-431a-9914-96812f7298f6" />
 <p align="center">
-  <img src="./assets/banner.svg" alt="Dagim Getnet, Full-Stack Software Developer" width="100%"/>
+  <a herf="https://personal-portfolio-website-five-wine.vercel.app/">personal portfolio</a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/dagim-getnet-38a322332"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:dagimgetnet2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/dagimgetnet2-art<img width="1280" height="8" alt="divider" src="https://github.com/user-attachments/assets/71d00460-c2a9-47a9-a329-a32536febd45" />
+"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ```text
@@ -31,9 +32,11 @@ I'm a full-stack developer and a third-year Information Systems student at **Add
 
 | Project | What it does | Tech |
 |---|---|---|
-| **Dark Mode Extension** | Browser extension that turns any bright website into a dark theme with one click | JavaScript, Chrome Extension API |
-| **Audio Recording & Meeting Assignment System** | Desktop app for the full meeting workflow: agenda, audio recording, transcription, editing and final approval | C#, .NET Framework, WinForms |
-| **News Web App** | Responsive news app with live headlines, category filters and loading and error states | React, NewsAPI |
+| [**gym-admin-dashboard-v2**](https://github.com/dagimgetnet2-art/gym-admin-dashboard-v2) | Admin dashboard for managing a gym, such as members and day-to-day operations | react js |
+| [**Personal-Portfolio-Website**](https:/dagimgetnet2-art/github.com//Personal-Portfolio-Website) | My personal portfolio site showing my projects, skills and contact info | JavaScript, HTML, CSS |
+| [**FinTrack-ET**](https://github.com/dagimgetnet2-art/FinTrack-ET) | Business finance tracker that stores sales, expenses and customer debts, handles secure logins and calculates profits | PHP, MySQL, CSS |
+| [**EduTech-Academy**](https://github.com/dagimgetnet2-art/EduTech-Academy) | Modern, responsive website that gives students easy access to courses and learning resources | HTML, CSS |
+| [**News Web App**](https://github.com/dagimgetnet2-art/News-Web-App) | Responsive news app with live headlines, category filters, and loading and error states | React, NewsAPI |
 
 > Link each row to its repo once the code is pushed.
 
@@ -45,7 +48,6 @@ I'm a full-stack developer and a third-year Information Systems student at **Add
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
@@ -54,7 +56,6 @@ I'm a full-stack developer and a third-year Information Systems student at **Add
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
@@ -64,7 +65,7 @@ I'm a full-stack developer and a third-year Information Systems student at **Add
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
-<img src="./assets/divider.svg" width="100%" height="4" alt=""/>
+<img width="1280" height="8" alt="divider" src="https://github.com/user-attachments/assets/b48ce6db-0221-4ac7-b56e-652dc4d37f95" />
 
 ## GitHub stats
 
@@ -83,4 +84,3 @@ I'm a full-stack developer and a third-year Information Systems student at **Add
   <img src="./assets/footer.svg" alt="Thanks for stopping by" width="100%"/>
 </p>
 <img width="1280" height="140" alt="footer" src="https://github.com/user-attachments/assets/103fdbe1-e88f-477e-95d5-61026bba0df4" />
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="140" viewBox="0 0 1280 140" role="img" aria-label="Thanks for visiting" xmlns:c2pa="http://c2pa.org/manifest"><metadata
