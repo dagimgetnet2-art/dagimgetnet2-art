@@ -67,12 +67,7 @@ I'm a full-stack developer and a third-year Information Systems student at **Add
 
 <img width="1280" height="8" alt="divider" src="https://github.com/user-attachments/assets/b48ce6db-0221-4ac7-b56e-652dc4d37f95" />
 
-## GitHub stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
 
 ## Currently
 
@@ -80,7 +75,6 @@ I'm a full-stack developer and a third-year Information Systems student at **Add
 - Improving: REST API design and database modeling
 - Open to: internships, junior full-stack roles and collaborations
 
-<p align="center">
-  <img src="./assets/footer.svg" alt="Thanks for stopping by" width="100%"/>
+
 </p>
 <img width="1280" height="140" alt="footer" src="https://github.com/user-attachments/assets/103fdbe1-e88f-477e-95d5-61026bba0df4" />
