@@ -1,6 +1,6 @@
 <img width="1279" height="476" alt="image" src="https://github.com/user-attachments/assets/1a94f52a-5865-431a-9914-96812f7298f6" />
 <p align="center">
-  <a herf="https://personal-portfolio-website-five-wine.vercel.app/">personal portfolio</a>
+  <a href="https://personal-portfolio-website-five-wine.vercel.app/">personal portfolio</a>
 </p>
 
 <p align="center">
