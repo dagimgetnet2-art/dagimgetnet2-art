@@ -37,7 +37,6 @@ I'm a full-stack developer and a third-year Information Systems student at **Add
 | [**EduTech-Academy**](https://github.com/dagimgetnet2-art/EduTech-Academy) | Modern, responsive website that gives students easy access to courses and learning resources | HTML, CSS |
 | [**News Web App**](https://github.com/dagimgetnet2-art/News-Web-App) | Responsive news app with live headlines, category filters, and loading and error states | React, NewsAPI |
 
-> Link each row to its repo once the code is pushed.
 
 ## Tech stack
 
